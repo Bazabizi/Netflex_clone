@@ -1,1 +1,1 @@
-# Netflex_clone
+cloning the home page of netflex.com
